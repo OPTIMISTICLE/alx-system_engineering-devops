@@ -1,0 +1,3 @@
+#!/bn/bash
+cat < /etc/passwd
+cat < /etc/hosts
