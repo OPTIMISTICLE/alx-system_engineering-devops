@@ -1,0 +1,2 @@
+#!/bin/bash
+cat << fin > mem | sort mem > mem | uniq -u mem
