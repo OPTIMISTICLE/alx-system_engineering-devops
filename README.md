@@ -1,1 +1,1 @@
-Learning script bash
+shell permission
